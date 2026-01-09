@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! Soy Facundo 👋
 
-<!--
-**FacuPiscu/FacuPiscu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Programador Junior | Frontend & Backend Enthusiast
 
-Here are some ideas to get you started:
+¡Bienvenido a mi perfil! Soy un desarrollador apasionado por encontrar soluciones eficientes a través del código. Me caracterizo por mi enfoque en la **lógica de programación** y mi metodología de trabajo: **investigar a fondo antes de escribir la primera línea de código**. Creo firmemente que entender el "por qué" es tan importante como el "cómo".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+Estas son las tecnologías con las que construyo mis proyectos:
+
+* **Lenguajes:** Python, TypeScript, SQL.
+* **Frontend:** React, HTML5, CSS3.
+* **Herramientas:** Git, GitHub.
+
+---
+
+### 🚀 Sobre mí
+
+* 🧠 **Mi enfoque:** Me encanta desglosar problemas complejos en pasos lógicos manejables.
+* 📚 **Aprendizaje:** Siempre estoy explorando nuevas documentaciones y mejores prácticas para optimizar mis desarrollos.
+* 🎯 **Objetivo:** Seguir creciendo como desarrollador Full Stack y colaborar en proyectos desafiantes.
+
+---
