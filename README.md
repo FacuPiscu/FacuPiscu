@@ -10,7 +10,7 @@ Mi pasión está en entender la **lógica** detrás de cada sistema, diseñar **
 
 ### 🛠️ Tech Stack
 
-* **Lenguajes:** Python, TypeScript, SQL.
+* **Lenguajes:** Python, TypeScript, SQL, HTML, CSS, Javascript, Node.js
 * **Frontend:** React, HTML5, CSS3.
 * **Herramientas:** Git, GitHub.
 
@@ -18,7 +18,7 @@ Mi pasión está en entender la **lógica** detrás de cada sistema, diseñar **
 
 ### 🚀 Sobre mí
 
-* 🧠 Metodología: Antes de desarrollar, me sumerjo en la lógica y los casos de uso para garantizar soluciones sólidas.
+* 🧠 Metodología: Antes de desarrollar, me sumerjo en la lógica y los casos de uso para garantizar soluciones sólidas, además trabajo usando clean arquitecthure.
 * ⚡ Actitud: Me considero un entusiasta de la tecnología; siempre estoy aprendiendo y probando nuevas herramientas.
 * 🎯 Objetivo: Aportar valor real entendiendo el "qué", el "cómo" y el "para qué" de cada proyecto.
 
